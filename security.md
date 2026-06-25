@@ -9,7 +9,7 @@ The **🤖 FACEIT Stats Discord Bot** is a powerful bot that brings live FACEIT 
 
 <div align="center">
 
-[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/faceit-stats-discord-bot)
+[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/faceit-stats-discord-bot)
 
 </div>
 
@@ -112,7 +112,7 @@ You need a Discord bot. Real-time stats. Live match tracking. All in Discord.
 4. **➕ Invite bot to server** — use the generated invite link
 5. **✅ Type `/setup`** in a Discord channel to configure
 
-[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/faceit-stats-discord-bot)
+[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/faceit-stats-discord-bot)
 
 ### Bot Setup (Self-Hosted)
 
@@ -423,7 +423,7 @@ FACEIT stats directly in Discord. **FACEIT Stats Discord Bot** brings live match
 
 <div align="center">
 
-[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/faceit-stats-discord-bot)
+[![Download FACEIT Stats Discord Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/faceit-stats-discord-bot)
 
 **Version 3.1.0** — Live match stats & rankings. Free forever.
 
